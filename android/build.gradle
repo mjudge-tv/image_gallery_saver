@@ -1,4 +1,4 @@
-group 'com.example.imagegallerysaver'
+group 'com.turbovets.imagegallerysaver'
 version '1.0-SNAPSHOT'
 
 buildscript {
